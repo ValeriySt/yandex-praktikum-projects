@@ -62,3 +62,10 @@
 различных фестивалей и в обычное время . </td>
 <td><b>SQL</b>, <b>Python</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>SciPy</b>, <b>проверка статистических гипотез</b></td>
 <tr>
+<td><b>6</b></td>
+<td><a href="https://github.com/ValeriySt/yandex-praktikum-projects/blob/d098116ca8b8cf15be282358e586d8023206ce06/6.%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D1%85%20%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D1%82%20%D0%B2%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B5.ipynb" target="_blank"><b> Оптимизация маркетинговых затрат в Яндекс.Афише</b></a></td>
+<td>
+Проведен анализ данных от Яндекс.Афиши целью оптимизации маркетинговых затрат.
+Рассчитаны метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI. </td>
+<td><b>Python</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>когортный анализ</b>, <b>юнит-экономика</b>, <b>продуктовые метрики</b></td>
+<tr>
